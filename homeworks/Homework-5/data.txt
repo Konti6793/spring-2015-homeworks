@@ -1,0 +1,238 @@
+[2015-04-06 21:10:44,193] #################################### Option 2 ######################################
+[2015-04-06 21:10:44,265] #################################### Option 3 ######################################
+[2015-04-06 21:10:44,333] Hotel name: Hyatt Boston Harbor
+[2015-04-06 21:10:44,334] Stars: 4
+[2015-04-06 21:10:44,334] Number of reviews: 1,171 reviews 
+[2015-04-06 21:10:44,334] Hotel name: Seaport Boston Hotel
+[2015-04-06 21:10:44,334] Stars: 4.5
+[2015-04-06 21:10:44,335] Number of reviews: 2,551 reviews 
+[2015-04-06 21:10:44,335] Hotel name: Hotel Commonwealth
+[2015-04-06 21:10:44,335] Stars: 4.5
+[2015-04-06 21:10:44,335] Number of reviews: 2,947 reviews 
+[2015-04-06 21:10:44,336] Hotel name: Boston Harbor Hotel
+[2015-04-06 21:10:44,336] Stars: 4.5
+[2015-04-06 21:10:44,336] Number of reviews: 1,251 reviews 
+[2015-04-06 21:10:44,336] Hotel name: enVision Hotel Boston
+[2015-04-06 21:10:44,337] Stars: 4.5
+[2015-04-06 21:10:44,337] Number of reviews: 360 reviews 
+[2015-04-06 21:10:44,337] Hotel name: Revere Hotel Boston Common
+[2015-04-06 21:10:44,337] Stars: 4.5
+[2015-04-06 21:10:44,338] Number of reviews: 1,950 reviews 
+[2015-04-06 21:10:44,338] Hotel name: Nine Zero Hotel - a Kimpton Hotel
+[2015-04-06 21:10:44,338] Stars: 4.5
+[2015-04-06 21:10:44,338] Number of reviews: 1,829 reviews 
+[2015-04-06 21:10:44,339] Hotel name: Lenox Hotel
+[2015-04-06 21:10:44,339] Stars: 4.5
+[2015-04-06 21:10:44,339] Number of reviews: 2,566 reviews 
+[2015-04-06 21:10:44,339] Hotel name: The Westin Copley Place
+[2015-04-06 21:10:44,340] Stars: 4
+[2015-04-06 21:10:44,340] Number of reviews: 2,307 reviews 
+[2015-04-06 21:10:44,340] Hotel name: Courtyard by Marriott Boston Copley Square
+[2015-04-06 21:10:44,340] Stars: 4.5
+[2015-04-06 21:10:44,341] Number of reviews: 966 reviews 
+[2015-04-06 21:10:44,341] Hotel name: Omni Parker House
+[2015-04-06 21:10:44,341] Stars: 4
+[2015-04-06 21:10:44,342] Number of reviews: 4,463 reviews 
+[2015-04-06 21:10:44,342] Hotel name: Embassy Suites Boston Logan Airport
+[2015-04-06 21:10:44,342] Stars: 4
+[2015-04-06 21:10:44,342] Number of reviews: 1,322 reviews 
+[2015-04-06 21:10:44,343] Hotel name: XV Beacon
+[2015-04-06 21:10:44,343] Stars: 4.5
+[2015-04-06 21:10:44,343] Number of reviews: 798 reviews 
+[2015-04-06 21:10:44,343] Hotel name: The Midtown Hotel
+[2015-04-06 21:10:44,343] Stars: 3.5
+[2015-04-06 21:10:44,344] Number of reviews: 1,384 reviews 
+[2015-04-06 21:10:44,344] Hotel name: The Verb Hotel
+[2015-04-06 21:10:44,344] Stars: 4.5
+[2015-04-06 21:10:44,344] Number of reviews: 245 reviews 
+[2015-04-06 21:10:44,345] Hotel name: The Liberty Hotel
+[2015-04-06 21:10:44,345] Stars: 4
+[2015-04-06 21:10:44,345] Number of reviews: 745 reviews 
+[2015-04-06 21:10:44,345] Hotel name: Copley Square Hotel
+[2015-04-06 21:10:44,345] Stars: 4.5
+[2015-04-06 21:10:44,346] Number of reviews: 1,046 reviews 
+[2015-04-06 21:10:44,346] Hotel name: Taj Boston
+[2015-04-06 21:10:44,346] Stars: 4
+[2015-04-06 21:10:44,346] Number of reviews: 1,147 reviews 
+[2015-04-06 21:10:44,346] Hotel name: Harborside Inn
+[2015-04-06 21:10:44,347] Stars: 4
+[2015-04-06 21:10:44,347] Number of reviews: 1,034 reviews 
+[2015-04-06 21:10:44,347] Hotel name: The Fairmont Copley Plaza, Boston
+[2015-04-06 21:10:44,347] Stars: 4.5
+[2015-04-06 21:10:44,347] Number of reviews: 1,611 reviews 
+[2015-04-06 21:10:44,348] Hotel name: Hilton Boston Back Bay
+[2015-04-06 21:10:44,348] Stars: 4
+[2015-04-06 21:10:44,348] Number of reviews: 1,707 reviews 
+[2015-04-06 21:10:44,348] Hotel name: Millennium Bostonian Hotel
+[2015-04-06 21:10:44,348] Stars: 4
+[2015-04-06 21:10:44,349] Number of reviews: 1,019 reviews 
+[2015-04-06 21:10:44,349] Hotel name: The Langham, Boston
+[2015-04-06 21:10:44,349] Stars: 4.5
+[2015-04-06 21:10:44,349] Number of reviews: 1,410 reviews 
+[2015-04-06 21:10:44,350] Hotel name: InterContinental Boston
+[2015-04-06 21:10:44,350] Stars: 4.5
+[2015-04-06 21:10:44,350] Number of reviews: 1,897 reviews 
+[2015-04-06 21:10:44,350] Hotel name: Boston Hotel Buckminster
+[2015-04-06 21:10:44,350] Stars: 3.5
+[2015-04-06 21:10:44,351] Number of reviews: 828 reviews 
+[2015-04-06 21:10:44,351] Hotel name: Marriott's Custom House
+[2015-04-06 21:10:44,351] Stars: 4.5
+[2015-04-06 21:10:44,351] Number of reviews: 562 reviews 
+[2015-04-06 21:10:44,352] Hotel name: Sheraton Boston Hotel
+[2015-04-06 21:10:44,352] Stars: 4
+[2015-04-06 21:10:44,352] Number of reviews: 533 reviews 
+[2015-04-06 21:10:44,352] Hotel name: Residence Inn Boston Back Bay / Fenway
+[2015-04-06 21:10:44,353] Stars: 4.5
+[2015-04-06 21:10:44,353] Number of reviews: 522 reviews 
+[2015-04-06 21:10:44,353] Hotel name: Boston Marriott Copley Place
+[2015-04-06 21:10:44,353] Stars: 4
+[2015-04-06 21:10:44,354] Number of reviews: 2,040 reviews 
+[2015-04-06 21:10:44,354] Hotel name: Loews Boston Hotel
+[2015-04-06 21:10:44,354] Stars: 4.5
+[2015-04-06 21:10:44,355] Number of reviews: 771 reviews 
+[2015-04-06 21:10:44,413] Next url is /Hotels-g60745-oa30-Boston_Massachusetts-Hotels.html#ACCOM_OVERVIEW
+[2015-04-06 21:10:48,431] #################################### Option 2 ######################################
+[2015-04-06 21:10:48,496] #################################### Option 3 ######################################
+[2015-04-06 21:10:48,560] Hotel name: Hyatt Regency Boston
+[2015-04-06 21:10:48,561] Stars: 4
+[2015-04-06 21:10:48,561] Number of reviews: 1,934 reviews 
+[2015-04-06 21:10:48,561] Hotel name: W Boston
+[2015-04-06 21:10:48,561] Stars: 4
+[2015-04-06 21:10:48,562] Number of reviews: 865 reviews 
+[2015-04-06 21:10:48,562] Hotel name: DoubleTree by Hilton Hotel Boston - Downtown
+[2015-04-06 21:10:48,562] Stars: 4
+[2015-04-06 21:10:48,563] Number of reviews: 470 reviews 
+[2015-04-06 21:10:48,563] Hotel name: Colonnade Hotel
+[2015-04-06 21:10:48,563] Stars: 4.5
+[2015-04-06 21:10:48,564] Number of reviews: 2,063 reviews 
+[2015-04-06 21:10:48,564] Hotel name: Chandler Inn
+[2015-04-06 21:10:48,564] Stars: 4
+[2015-04-06 21:10:48,564] Number of reviews: 858 reviews 
+[2015-04-06 21:10:48,564] Hotel name: The Inn at Longwood Medical
+[2015-04-06 21:10:48,565] Stars: 4
+[2015-04-06 21:10:48,565] Number of reviews: 687 reviews 
+[2015-04-06 21:10:48,565] Hotel name: Hotel 140
+[2015-04-06 21:10:48,565] Stars: 4
+[2015-04-06 21:10:48,565] Number of reviews: 969 reviews 
+[2015-04-06 21:10:48,566] Hotel name: Hilton Boston Logan Airport
+[2015-04-06 21:10:48,566] Stars: 4
+[2015-04-06 21:10:48,566] Number of reviews: 1,970 reviews 
+[2015-04-06 21:10:48,566] Hotel name: Hilton Boston Downtown / Faneuil Hall
+[2015-04-06 21:10:48,567] Stars: 4
+[2015-04-06 21:10:48,567] Number of reviews: 876 reviews 
+[2015-04-06 21:10:48,567] Hotel name: Battery Wharf Hotel, Boston Waterfront
+[2015-04-06 21:10:48,567] Stars: 4.5
+[2015-04-06 21:10:48,568] Number of reviews: 864 reviews 
+[2015-04-06 21:10:48,568] Hotel name: Boston Marriott Long Wharf
+[2015-04-06 21:10:48,568] Stars: 4
+[2015-04-06 21:10:48,568] Number of reviews: 1,290 reviews 
+[2015-04-06 21:10:48,569] Hotel name: Hampton Inn & Suites Boston Crosstown Center
+[2015-04-06 21:10:48,569] Stars: 4
+[2015-04-06 21:10:48,569] Number of reviews: 568 reviews 
+[2015-04-06 21:10:48,569] Hotel name: Onyx Hotel - a Kimpton Hotel
+[2015-04-06 21:10:48,570] Stars: 4
+[2015-04-06 21:10:48,570] Number of reviews: 983 reviews 
+[2015-04-06 21:10:48,570] Hotel name: Four Seasons Hotel Boston
+[2015-04-06 21:10:48,570] Stars: 4.5
+[2015-04-06 21:10:48,571] Number of reviews: 1,032 reviews 
+[2015-04-06 21:10:48,571] Hotel name: Holiday Inn Express Boston
+[2015-04-06 21:10:48,571] Stars: 4
+[2015-04-06 21:10:48,572] Number of reviews: 538 reviews 
+[2015-04-06 21:10:48,572] Hotel name: DoubleTree Club by Hilton Hotel Boston Bayside
+[2015-04-06 21:10:48,572] Stars: 4
+[2015-04-06 21:10:48,573] Number of reviews: 946 reviews 
+[2015-04-06 21:10:48,573] Hotel name: The Boxer Boston
+[2015-04-06 21:10:48,573] Stars: 4
+[2015-04-06 21:10:48,573] Number of reviews: 369 reviews 
+[2015-04-06 21:10:48,573] Hotel name: Wyndham Boston Beacon Hill
+[2015-04-06 21:10:48,573] Stars: 4
+[2015-04-06 21:10:48,574] Number of reviews: 1,040 reviews 
+[2015-04-06 21:10:48,574] Hotel name: Residence Inn by Marriott Boston Harbor on Tudor Wharf
+[2015-04-06 21:10:48,574] Stars: 4.5
+[2015-04-06 21:10:48,575] Number of reviews: 519 reviews 
+[2015-04-06 21:10:48,575] Hotel name: BEST WESTERN University Hotel Boston-Brighton
+[2015-04-06 21:10:48,575] Stars: 3.5
+[2015-04-06 21:10:48,575] Number of reviews: 361 reviews 
+[2015-04-06 21:10:48,575] Hotel name: The Westin Boston Waterfront
+[2015-04-06 21:10:48,575] Stars: 4
+[2015-04-06 21:10:48,576] Number of reviews: 1,621 reviews 
+[2015-04-06 21:10:48,576] Hotel name: Eliot Hotel
+[2015-04-06 21:10:48,576] Stars: 4.5
+[2015-04-06 21:10:48,577] Number of reviews: 746 reviews 
+[2015-04-06 21:10:48,577] Hotel name: Club Quarters in Boston
+[2015-04-06 21:10:48,577] Stars: 4
+[2015-04-06 21:10:48,578] Number of reviews: 1,051 reviews 
+[2015-04-06 21:10:48,578] Hotel name: Copley House
+[2015-04-06 21:10:48,578] Stars: 3.5
+[2015-04-06 21:10:48,578] Number of reviews: 380 reviews 
+[2015-04-06 21:10:48,579] Hotel name: Renaissance Boston Waterfront Hotel
+[2015-04-06 21:10:48,579] Stars: 4
+[2015-04-06 21:10:48,579] Number of reviews: 873 reviews 
+[2015-04-06 21:10:48,579] Hotel name: DoubleTree Suites by Hilton Boston-Cambridge
+[2015-04-06 21:10:48,579] Stars: 4
+[2015-04-06 21:10:48,580] Number of reviews: 1,064 reviews 
+[2015-04-06 21:10:48,580] Hotel name: Newbury Guest House
+[2015-04-06 21:10:48,580] Stars: 4
+[2015-04-06 21:10:48,580] Number of reviews: 436 reviews 
+[2015-04-06 21:10:48,580] Hotel name: BEST WESTERN PLUS Roundhouse Suites
+[2015-04-06 21:10:48,581] Stars: 3.5
+[2015-04-06 21:10:48,581] Number of reviews: 716 reviews 
+[2015-04-06 21:10:48,581] Hotel name: Charlesmark Hotel
+[2015-04-06 21:10:48,581] Stars: 4
+[2015-04-06 21:10:48,581] Number of reviews: 754 reviews 
+[2015-04-06 21:10:48,582] Hotel name: Mandarin Oriental, Boston
+[2015-04-06 21:10:48,582] Stars: 4.5
+[2015-04-06 21:10:48,582] Number of reviews: 408 reviews 
+[2015-04-06 21:10:48,640] Next url is /Hotels-g60745-oa60-Boston_Massachusetts-Hotels.html#ACCOM_OVERVIEW
+[2015-04-06 21:10:52,333] Hotel name: Holiday Inn Express Hotel & Suites Boston Garden
+[2015-04-06 21:10:52,334] Stars: 3.5
+[2015-04-06 21:10:52,336] Number of reviews: 306 reviews 
+[2015-04-06 21:10:52,336] Hotel name: Ames Boston Hotel
+[2015-04-06 21:10:52,337] Stars: 4.5
+[2015-04-06 21:10:52,338] Number of reviews: 870 reviews 
+[2015-04-06 21:10:52,339] Hotel name: The Ritz-Carlton Boston Common
+[2015-04-06 21:10:52,340] Stars: 4.5
+[2015-04-06 21:10:52,341] Number of reviews: 513 reviews 
+[2015-04-06 21:10:52,341] Hotel name: Courtyard by Marriott Boston Logan Airport
+[2015-04-06 21:10:52,342] Stars: 3.5
+[2015-04-06 21:10:52,343] Number of reviews: 430 reviews 
+[2015-04-06 21:10:52,344] Hotel name: The Inn At St Botolph
+[2015-04-06 21:10:52,344] Stars: 4.5
+[2015-04-06 21:10:52,346] Number of reviews: 429 reviews 
+[2015-04-06 21:10:52,346] Hotel name: Residence Inn Boston Downtown Seaport
+[2015-04-06 21:10:52,347] Stars: 4.5
+[2015-04-06 21:10:52,349] Number of reviews: 234 reviews 
+[2015-04-06 21:10:52,349] Hotel name: Courtyard Boston-South Boston
+[2015-04-06 21:10:52,350] Stars: 4
+[2015-04-06 21:10:52,351] Number of reviews: 344 reviews 
+[2015-04-06 21:10:52,351] Hotel name: Beacon Hill Hotel and Bistro
+[2015-04-06 21:10:52,352] Stars: 4
+[2015-04-06 21:10:52,353] Number of reviews: 143 reviews 
+[2015-04-06 21:10:52,353] Hotel name: Comfort Inn - Boston
+[2015-04-06 21:10:52,354] Stars: 3.5
+[2015-04-06 21:10:52,355] Number of reviews: 287 reviews 
+[2015-04-06 21:10:52,356] Hotel name: The Boston Common Hotel and Conference Center
+[2015-04-06 21:10:52,356] Stars: 3.5
+[2015-04-06 21:10:52,358] Number of reviews: 443 reviews 
+[2015-04-06 21:10:52,358] Hotel name: Courtyard Boston Downtown
+[2015-04-06 21:10:52,359] Stars: 3
+[2015-04-06 21:10:52,360] Number of reviews: 808 reviews 
+[2015-04-06 21:10:52,360] Hotel name: Boston Park Plaza
+[2015-04-06 21:10:52,361] Stars: 3.5
+[2015-04-06 21:10:52,363] Number of reviews: 4,249 reviews 
+[2015-04-06 21:10:52,363] Hotel name: Ramada Boston
+[2015-04-06 21:10:52,364] Stars: 3
+[2015-04-06 21:10:52,365] Number of reviews: 920 reviews 
+[2015-04-06 21:10:52,365] Hotel name: Milner Hotel
+[2015-04-06 21:10:52,366] Stars: 3
+[2015-04-06 21:10:52,367] Number of reviews: 368 reviews 
+[2015-04-06 21:10:52,367] Hotel name: Constitution Inn
+[2015-04-06 21:10:52,368] Stars: 3
+[2015-04-06 21:10:52,369] Number of reviews: 411 reviews 
+[2015-04-06 21:10:52,370] Hotel name: Days Hotel Boston
+[2015-04-06 21:10:52,370] Stars: 3
+[2015-04-06 21:10:52,372] Number of reviews: 190 reviews 
+[2015-04-06 21:10:52,372] Hotel name: Americas Best Value Inn
+[2015-04-06 21:10:52,373] Stars: 2.5
+[2015-04-06 21:10:52,374] Number of reviews: 18 reviews 
+[2015-04-06 21:10:52,429] We reached last page

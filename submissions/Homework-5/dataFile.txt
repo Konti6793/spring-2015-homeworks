@@ -1,0 +1,240 @@
+#################################### Option 2 ######################################
+#################################### Option 3 ######################################
+Hotel name: Seaport Boston Hotel
+Stars: 4.5
+Number of reviews: 2,551 reviews 
+Hotel name: Hyatt Boston Harbor
+Stars: 4
+Number of reviews: 1,171 reviews 
+Hotel name: Courtyard by Marriott Boston Copley Square
+Stars: 4.5
+Number of reviews: 966 reviews 
+Hotel name: Nine Zero Hotel - a Kimpton Hotel
+Stars: 4.5
+Number of reviews: 1,829 reviews 
+Hotel name: The Westin Copley Place
+Stars: 4
+Number of reviews: 2,308 reviews 
+Hotel name: Boston Harbor Hotel
+Stars: 4.5
+Number of reviews: 1,251 reviews 
+Hotel name: Hotel Commonwealth
+Stars: 4.5
+Number of reviews: 2,947 reviews 
+Hotel name: Revere Hotel Boston Common
+Stars: 4.5
+Number of reviews: 1,950 reviews 
+Hotel name: Lenox Hotel
+Stars: 4.5
+Number of reviews: 2,566 reviews 
+Hotel name: enVision Hotel Boston
+Stars: 4.5
+Number of reviews: 360 reviews 
+Hotel name: Sheraton Boston Hotel
+Stars: 4
+Number of reviews: 533 reviews 
+Hotel name: Hilton Boston Back Bay
+Stars: 4
+Number of reviews: 1,707 reviews 
+Hotel name: The Langham, Boston
+Stars: 4.5
+Number of reviews: 1,410 reviews 
+Hotel name: W Boston
+Stars: 4
+Number of reviews: 865 reviews 
+Hotel name: InterContinental Boston
+Stars: 4.5
+Number of reviews: 1,897 reviews 
+Hotel name: Residence Inn Boston Back Bay / Fenway
+Stars: 4.5
+Number of reviews: 523 reviews 
+Hotel name: Marriott's Custom House
+Stars: 4.5
+Number of reviews: 562 reviews 
+Hotel name: Harborside Inn
+Stars: 4
+Number of reviews: 1,034 reviews 
+Hotel name: The Midtown Hotel
+Stars: 3.5
+Number of reviews: 1,390 reviews 
+Hotel name: Holiday Inn Express Boston
+Stars: 4
+Number of reviews: 538 reviews 
+Hotel name: Omni Parker House
+Stars: 4
+Number of reviews: 4,463 reviews 
+Hotel name: Boston Park Plaza
+Stars: 3.5
+Number of reviews: 4,253 reviews 
+Hotel name: The Liberty Hotel
+Stars: 4
+Number of reviews: 745 reviews 
+Hotel name: The Verb Hotel
+Stars: 4.5
+Number of reviews: 246 reviews 
+Hotel name: Millennium Bostonian Hotel
+Stars: 4
+Number of reviews: 1,019 reviews 
+Hotel name: Loews Boston Hotel
+Stars: 4.5
+Number of reviews: 771 reviews 
+Hotel name: The Fairmont Copley Plaza, Boston
+Stars: 4.5
+Number of reviews: 1,611 reviews 
+Hotel name: Copley Square Hotel
+Stars: 4.5
+Number of reviews: 1,046 reviews 
+Hotel name: Embassy Suites Boston Logan Airport
+Stars: 4
+Number of reviews: 1,322 reviews 
+Hotel name: Taj Boston
+Stars: 4
+Number of reviews: 1,147 reviews 
+Next url is /Hotels-g60745-oa30-Boston_Massachusetts-Hotels.html#ACCOM_OVERVIEW
+#################################### Option 2 ######################################
+#################################### Option 3 ######################################
+Hotel name: Hyatt Regency Boston
+Stars: 4
+Number of reviews: 1,934 reviews 
+Hotel name: W Boston
+Stars: 4
+Number of reviews: 865 reviews 
+Hotel name: DoubleTree by Hilton Hotel Boston - Downtown
+Stars: 4
+Number of reviews: 470 reviews 
+Hotel name: Colonnade Hotel
+Stars: 4.5
+Number of reviews: 2,063 reviews 
+Hotel name: Chandler Inn
+Stars: 4
+Number of reviews: 858 reviews 
+Hotel name: The Inn at Longwood Medical
+Stars: 4
+Number of reviews: 687 reviews 
+Hotel name: Hotel 140
+Stars: 4
+Number of reviews: 969 reviews 
+Hotel name: Hilton Boston Logan Airport
+Stars: 4
+Number of reviews: 1,970 reviews 
+Hotel name: Hilton Boston Downtown / Faneuil Hall
+Stars: 4
+Number of reviews: 876 reviews 
+Hotel name: Battery Wharf Hotel, Boston Waterfront
+Stars: 4.5
+Number of reviews: 864 reviews 
+Hotel name: Boston Marriott Long Wharf
+Stars: 4
+Number of reviews: 1,290 reviews 
+Hotel name: Hampton Inn & Suites Boston Crosstown Center
+Stars: 4
+Number of reviews: 568 reviews 
+Hotel name: Onyx Hotel - a Kimpton Hotel
+Stars: 4
+Number of reviews: 983 reviews 
+Hotel name: Four Seasons Hotel Boston
+Stars: 4.5
+Number of reviews: 1,033 reviews 
+Hotel name: Holiday Inn Express Boston
+Stars: 4
+Number of reviews: 538 reviews 
+Hotel name: DoubleTree Club by Hilton Hotel Boston Bayside
+Stars: 4
+Number of reviews: 946 reviews 
+Hotel name: The Boxer Boston
+Stars: 4
+Number of reviews: 369 reviews 
+Hotel name: Wyndham Boston Beacon Hill
+Stars: 4
+Number of reviews: 1,040 reviews 
+Hotel name: Residence Inn by Marriott Boston Harbor on Tudor Wharf
+Stars: 4.5
+Number of reviews: 519 reviews 
+Hotel name: BEST WESTERN University Hotel Boston-Brighton
+Stars: 3.5
+Number of reviews: 361 reviews 
+Hotel name: The Westin Boston Waterfront
+Stars: 4
+Number of reviews: 1,621 reviews 
+Hotel name: Eliot Hotel
+Stars: 4.5
+Number of reviews: 746 reviews 
+Hotel name: Club Quarters in Boston
+Stars: 4
+Number of reviews: 1,051 reviews 
+Hotel name: Copley House
+Stars: 3.5
+Number of reviews: 380 reviews 
+Hotel name: Renaissance Boston Waterfront Hotel
+Stars: 4
+Number of reviews: 873 reviews 
+Hotel name: DoubleTree Suites by Hilton Boston-Cambridge
+Stars: 4
+Number of reviews: 1,064 reviews 
+Hotel name: Newbury Guest House
+Stars: 4
+Number of reviews: 436 reviews 
+Hotel name: BEST WESTERN PLUS Roundhouse Suites
+Stars: 3.5
+Number of reviews: 716 reviews 
+Hotel name: Charlesmark Hotel
+Stars: 4
+Number of reviews: 754 reviews 
+Hotel name: Mandarin Oriental, Boston
+Stars: 4.5
+Number of reviews: 408 reviews 
+Next url is /Hotels-g60745-oa60-Boston_Massachusetts-Hotels.html#ACCOM_OVERVIEW
+#################################### Option 2 ######################################
+#################################### Option 3 ######################################
+Hotel name: Holiday Inn Express Hotel & Suites Boston Garden
+Stars: 3.5
+Number of reviews: 306 reviews 
+Hotel name: Ames Boston Hotel
+Stars: 4.5
+Number of reviews: 870 reviews 
+Hotel name: The Ritz-Carlton Boston Common
+Stars: 4.5
+Number of reviews: 513 reviews 
+Hotel name: Courtyard by Marriott Boston Logan Airport
+Stars: 3.5
+Number of reviews: 430 reviews 
+Hotel name: The Inn At St Botolph
+Stars: 4.5
+Number of reviews: 429 reviews 
+Hotel name: Residence Inn Boston Downtown Seaport
+Stars: 4.5
+Number of reviews: 234 reviews 
+Hotel name: Courtyard Boston-South Boston
+Stars: 4
+Number of reviews: 344 reviews 
+Hotel name: Beacon Hill Hotel and Bistro
+Stars: 4
+Number of reviews: 143 reviews 
+Hotel name: Comfort Inn - Boston
+Stars: 3.5
+Number of reviews: 287 reviews 
+Hotel name: The Boston Common Hotel and Conference Center
+Stars: 3.5
+Number of reviews: 443 reviews 
+Hotel name: Courtyard Boston Downtown
+Stars: 3
+Number of reviews: 808 reviews 
+Hotel name: Boston Park Plaza
+Stars: 3.5
+Number of reviews: 4,253 reviews 
+Hotel name: Ramada Boston
+Stars: 3
+Number of reviews: 920 reviews 
+Hotel name: Milner Hotel
+Stars: 3
+Number of reviews: 368 reviews 
+Hotel name: Constitution Inn
+Stars: 3
+Number of reviews: 411 reviews 
+Hotel name: Days Hotel Boston
+Stars: 3
+Number of reviews: 190 reviews 
+Hotel name: Americas Best Value Inn
+Stars: 2.5
+Number of reviews: 18 reviews 
+We reached last page
